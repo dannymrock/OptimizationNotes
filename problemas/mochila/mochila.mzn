@@ -1,3 +1,5 @@
+% minizinc -D capacity=9 mochila.mzn 
+
 int: N = 8;
 set of int: OBJ = 1..N;
 int: capacity;

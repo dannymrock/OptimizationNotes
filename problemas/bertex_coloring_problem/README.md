@@ -1,4 +1,12 @@
+# Problema coloreado
 
+Ver la implementacion en: https://www.minizinc.org/doc-2.5.5/en/modelling.html
+
+
+
+## Otras cosas 
+
+En remojo
 
 * https://jbulin.github.io/teaching/fall/nopt042/
 * https://dl1.cuni.cz/pluginfile.php/1325383/mod_resource/content/2/slides.pdf
@@ -16,3 +24,5 @@
 * https://johnhooker.tepper.cmu.edu/tutorialToulouse.pdf
 * https://jbulin.github.io/teaching/fall/nopt042/
 * https://github.com/jbulin-mff-uk
+* https://jbulin.github.io/
+* https://dl1.cuni.cz/course/view.php?id=10544

@@ -14,6 +14,7 @@ Link para pasar: https://github.com/ensayos-aaad/ensayos-mh
 * https://dl1.cuni.cz/course/view.php?id=10544
 * https://www.csplib.org/
 * https://ktiml.mff.cuni.cz/~bartak/podminky/
+* https://web.stanford.edu/class/archive/cs/cs103/cs103.1164/
 
 
 ### Otros 2
