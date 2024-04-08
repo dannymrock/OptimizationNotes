@@ -10,7 +10,13 @@ Link para pasar: https://github.com/ensayos-aaad/ensayos-mh
 * https://github.com/rramosp/2018.logic3
 * https://github.com/rramosp/20191.L3
 
-### Otros
+## Otros 1
+* https://dl1.cuni.cz/course/view.php?id=10544
+* https://www.csplib.org/
+* https://ktiml.mff.cuni.cz/~bartak/podminky/
+
+
+### Otros 2
 * https://networkx.org/documentation/stable/tutorial.html
 * https://facebookresearch.github.io/nevergrad/getting_started.html
 * https://dev.heuristiclab.com/trac.fcgi/
