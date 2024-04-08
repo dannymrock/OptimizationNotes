@@ -1,6 +1,21 @@
 # OptimizationNotes
 This repo contains general information about optimization techniques.
 
+## Preguntas
+
+* Se habla de Picat, Haskell, Minizinc y SICStus Prolog ¿Que son estas cosas?, ¿Para que sirven?, ¿Por que parece que ya se usa Picat?
+
+
+## Material de consulta
+
+### Diapositivas
+
+1. NOPT042 Constraint programming: Tutorial [[link](slides.pdf)]
+2. Tutorial Hybrid Mixed Integer Programming and Constraint Programing Methods [[link]](tutorialToulouse.pdf)
+3. https://ics.uci.edu/~dechter/books/materials.html
+4. http://picat-lang.org/picatbook2015.html
+5. https://johnhooker.tepper.cmu.edu/
+
 ## Intento viejo
 Link para pasar: https://github.com/ensayos-aaad/ensayos-mh
 
